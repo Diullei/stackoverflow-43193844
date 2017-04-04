@@ -1,0 +1,15 @@
+{
+    "compilerOptions": {
+        "noImplicitAny": true,
+        "removeComments": true,
+        "preserveConstEnums": true,
+        "sourceMap": true,
+        "noImplicitThis": false,
+        "experimentalDecorators": true,
+        "emitDecoratorMetadata": true,
+        "target": "es5"
+   },
+    "exclude": [
+        "node_modules"
+    ]
+}
